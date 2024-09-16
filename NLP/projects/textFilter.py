@@ -16,7 +16,7 @@ vectorizer = CountVectorizer()
 # تحميل كلمات التوقف باللغة الإنجليزية
 stop_words = set(stopwords.words('english'))
 
-df = pd.read_json('assets/data.json')
+df = pd.read_json('assets/textFilter.json')
 
 # استخراج البيانات من الحقل 'data' في JSON
 dataFrame = df['data']

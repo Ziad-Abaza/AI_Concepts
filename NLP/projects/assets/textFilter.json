@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "text": "Hello world! 😊 Welcome to NLP. #AI #MachineLearning 🚀 Contact us at hello@nlp.com.",
+      "category": "general"
+    },
+    {
+      "id": 2,
+      "text": "Python is great for datas science! 📊👨‍💻 But sometimes debugging can be 🤯. For support, email us at support@python.org.",
+      "category": "programming"
+    },
+    {
+      "id": 3,
+      "text": "Best offer!!! Get 50% OFF on all productses. Visit: https://example.com/shop 🛒 or call us at +1-800-123-4567.",
+      "category": "advertisement"
+    },
+    {
+      "id": 4,
+      "text": "Good mornning ☀️! Ready for the meeting at 10:00 AM? Don't forget the documents. Contact John at john@company.com.",
+      "category": "work"
+    },
+    {
+      "id": 5,
+      "text": "Breaking news: New advancements in AI 🧠. Check the details here: https://news.ai or call 0145632586.",
+      "category": "news"
+    },
+    {
+      "id": 6,
+      "text": "Call me when you're free at +1-555-789-1234 😊. We need to discuss the project update. 📞",
+      "category": "personal"
+    },
+    {
+      "id": 7,
+      "text": "Huge discount on mobile phones!!! Buy now and save $$$ 💰💰💰. Limited time offer! Call 01006425389.",
+      "category": "advertisement"
+    },
+    {
+      "id": 8,
+      "text": "Congratulations! You've been selected as a winner 🎉. Claim your prize now at https://example.com/win or email claim@prize.com.",
+      "category": "spam"
+    },
+    {
+      "id": 9,
+      "text": "I'm lovving thises new AI course 🧑‍🏫💻. Learning a lot about NLP and machine learning. For inquiries, contact ai.course@edu.com.",
+      "category": "education"
+    },
+    {
+      "id": 10,
+      "text": "Can you send me the repport by EOD? Also, check the data from last quarter 📈. Reach out at reports@workplace.com.",
+      "category": "work"
+    }
+  ]
+}

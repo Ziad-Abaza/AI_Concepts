@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Ziad Hassan",
+    "work": "Software Engineer",
+    "education": "BSc in Information Technology",
+    "preference": "Interested in AI and IoT"
+  },
+  {
+    "name": "Sara Ahmed",
+    "work": "Marketing Specialist",
+    "education": "MBA in Marketing",
+    "preference": "Passionate about digital advertising"
+  },
+  {
+    "name": "Mohamed Ali",
+    "work": "Data Scientist",
+    "education": "MSc in Data Science",
+    "preference": "Enjoys working on machine learning models"
+  },
+  {
+    "name": "Lina Omar",
+    "work": "Graphic Designer",
+    "education": "Bachelor in Visual Arts",
+    "preference": "Loves creating digital illustrations"
+  },
+  {
+    "name": "Ahmed Zaki",
+    "work": "Full Stack Developer",
+    "education": "Diploma in Computer Science",
+    "preference": "Focused on building scalable web apps"
+  },
+  {
+    "name": "Hana Youssef",
+    "work": "Content Creator",
+    "education": "BA in Journalism",
+    "preference": "Enthusiastic about writing and blogging"
+  },
+  {
+    "name": "Nour El-Din",
+    "work": "Mechanical Engineer",
+    "education": "BEng in Mechanical Engineering",
+    "preference": "Interested in automotive technology"
+  },
+  {
+    "name": "Ali Fathy",
+    "work": "Electrical Engineer",
+    "education": "BSc in Electrical Engineering",
+    "preference": "Passionate about renewable energy"
+  },
+  {
+    "name": "Mariam Samir",
+    "work": "UI/UX Designer",
+    "education": "BDes in User Experience Design",
+    "preference": "Loves optimizing user interfaces"
+  },
+  {
+    "name": "Amr Khaled",
+    "work": "Network Administrator",
+    "education": "BSc in Networking and Telecommunications",
+    "preference": "Focused on cybersecurity"
+  },
+  {
+    "name": "Dina Salah",
+    "work": "Data Analyst",
+    "education": "BSc in Mathematics",
+    "preference": "Enjoys extracting insights from data"
+  },
+  {
+    "name": "Omar Ezzat",
+    "work": "Civil Engineer",
+    "education": "MSc in Civil Engineering",
+    "preference": "Loves designing sustainable buildings"
+  },
+  {
+    "name": "Salma Tamer",
+    "work": "Project Manager",
+    "education": "PMP Certified",
+    "preference": "Excels in coordinating software projects"
+  },
+  {
+    "name": "Fady Mourad",
+    "work": "Systems Analyst",
+    "education": "BSc in Computer Science",
+    "preference": "Interested in improving IT infrastructure"
+  },
+  {
+    "name": "Yasmin Hassan",
+    "work": "Front-End Developer",
+    "education": "BA in Web Development",
+    "preference": "Specializes in React and Vue.js"
+  },
+  {
+    "name": "Kareem Ismail",
+    "work": "Artificial Intelligence Researcher",
+    "education": "PhD in AI",
+    "preference": "Researching deep learning techniques"
+  },
+  {
+    "name": "Rania Osama",
+    "work": "Social Media Manager",
+    "education": "BA in Communications",
+    "preference": "Passionate about social media strategy"
+  },
+  {
+    "name": "Zeinab Shokry",
+    "work": "HR Manager",
+    "education": "BSc in Business Administration",
+    "preference": "Focused on improving workplace culture"
+  },
+  {
+    "name": "Samy Adel",
+    "work": "SEO Specialist",
+    "education": "Certificate in Digital Marketing",
+    "preference": "Interested in optimizing websites for search engines"
+  },
+  {
+    "name": "Mohsen Galal",
+    "work": "Database Administrator",
+    "education": "BSc in Information Systems",
+    "preference": "Enjoys managing and securing databases"
+  },
+  {
+    "name": "Abeer Hamed",
+    "work": "Cybersecurity Analyst",
+    "education": "BSc in Cybersecurity",
+    "preference": "Focused on threat detection and prevention"
+  },
+  {
+    "name": "Hassan Nabil",
+    "work": "Mobile App Developer",
+    "education": "Diploma in Mobile Development",
+    "preference": "Enjoys developing Android and iOS apps"
+  },
+  {
+    "name": "Walaa Fahmy",
+    "work": "Cloud Solutions Architect",
+    "education": "BSc in Cloud Computing",
+    "preference": "Specializes in AWS and Azure solutions"
+  },
+  {
+    "name": "Sherif Gaber",
+    "work": "DevOps Engineer",
+    "education": "BSc in Software Engineering",
+    "preference": "Passionate about automation and CI/CD pipelines"
+  },
+  {
+    "name": "Eman Farouk",
+    "work": "Business Analyst",
+    "education": "BSc in Business Analytics",
+    "preference": "Loves improving business processes through data"
+  },
+  {
+    "name": "Omar Yasser",
+    "work": "Embedded Systems Engineer",
+    "education": "MSc in Embedded Systems",
+    "preference": "Focused on IoT and microcontroller development"
+  },
+  {
+    "name": "Marwa Reda",
+    "work": "Product Manager",
+    "education": "MBA in Product Management",
+    "preference": "Interested in managing the lifecycle of tech products"
+  },
+  {
+    "name": "Khaled Sobhy",
+    "work": "Robotics Engineer",
+    "education": "BEng in Robotics",
+    "preference": "Develops autonomous robotic systems"
+  },
+  {
+    "name": "Farah Hisham",
+    "work": "Software Tester",
+    "education": "Certificate in Software Testing",
+    "preference": "Passionate about quality assurance"
+  },
+  {
+    "name": "Ziad Abdallah",
+    "work": "AI Engineer",
+    "education": "MSc in Artificial Intelligence",
+    "preference": "Specializes in natural language processing"
+  },
+  {
+    "name": "Laila Hamdy",
+    "work": "Financial Analyst",
+    "education": "BSc in Finance",
+    "preference": "Enjoys analyzing market trends"
+  },
+  {
+    "name": "Mahmoud Adel",
+    "work": "Architect",
+    "education": "MSc in Architecture",
+    "preference": "Interested in sustainable urban design"
+  },
+  {
+    "name": "Nadia Sami",
+    "work": "Legal Advisor",
+    "education": "LLM in Corporate Law",
+    "preference": "Focuses on corporate governance"
+  },
+  {
+    "name": "Ramy Badr",
+    "work": "Sales Manager",
+    "education": "MBA in Sales",
+    "preference": "Excels in building client relationships"
+  },
+  {
+    "name": "Sahar Abdelrahman",
+    "work": "Operations Manager",
+    "education": "BA in Operations Management",
+    "preference": "Passionate about process optimization"
+  },
+  {
+    "name": "Fouad Nasr",
+    "work": "Quality Control Engineer",
+    "education": "BSc in Industrial Engineering",
+    "preference": "Loves ensuring product quality"
+  },
+  {
+    "name": "Nourhan Fawzy",
+    "work": "Blockchain Developer",
+    "education": "Certificate in Blockchain Technology",
+    "preference": "Enjoys developing decentralized applications"
+  },
+  {
+    "name": "Gamal Younis",
+    "work": "Game Developer",
+    "education": "BSc in Game Design",
+    "preference": "Passionate about designing immersive experiences"
+  },
+  {
+    "name": "Rola Mustafa",
+    "work": "Public Relations Manager",
+    "education": "BA in Public Relations",
+    "preference": "Focused on building brand reputation"
+  },
+  {
+    "name": "Abdelrahman Saad",
+    "work": "AI Researcher",
+    "education": "PhD in Machine Learning",
+    "preference": "Researches advancements in neural networks"
+  },
+  {
+    "name": "Huda Fathy",
+    "work": "Digital Marketing Strategist",
+    "education": "BBA in Marketing",
+    "preference": "Specializes in online advertising strategies"
+  },
+  {
+    "name": "Maged Tamer",
+    "work": "Supply Chain Manager",
+    "education": "BSc in Supply Chain Management",
+    "preference": "Loves optimizing logistics"
+  },
+  {
+    "name": "Ghada ElShenawy",
+    "work": "Economist",
+    "education": "MSc in Economics",
+    "preference": "Interested in macroeconomic policies"
+  }
+]
